@@ -541,6 +541,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g6-common/proprietary/vendor/lib/liblgawb_main.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblgawb_main.so \
     vendor/lge/g6-common/proprietary/vendor/lib/liblghdri.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblghdri.so \
     vendor/lge/g6-common/proprietary/vendor/lib/liblgmda.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblgmda.so \
+    vendor/lge/g6-common/proprietary/vendor/lib/libllvd_smore.so:$(TARGET_COPY_OUT_VENDOR)/lib/libllvd_smore.so \
     vendor/lge/g6-common/proprietary/vendor/lib/libmm-qcamera.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmm-qcamera.so \
     vendor/lge/g6-common/proprietary/vendor/lib/libmmcamera2_c2d_module.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_c2d_module.so \
     vendor/lge/g6-common/proprietary/vendor/lib/libmmcamera2_cpp_module.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_cpp_module.so \
